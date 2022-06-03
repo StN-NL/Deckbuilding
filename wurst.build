@@ -1,0 +1,8 @@
+---
+projectName: Deckbuilding
+dependencies:
+- https://github.com/wurstscript/wurstStdlib2
+buildMapData:
+  name: Deckbuilding
+  fileName: Deckbuilding
+  author: stn
